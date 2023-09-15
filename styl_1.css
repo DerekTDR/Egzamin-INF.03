@@ -1,4 +1,6 @@
 * {
+    margin: 0;
+    padding: 0;
     font-family: Helvetica;
 }
 #header, #footer {
@@ -28,6 +30,7 @@
 }
 #footer {
     clear: both;
+
 }
 img {
     box-shadow: 10px 10px 7px dimgray;
